@@ -8,7 +8,7 @@
 ##
 ##  1. the function definitions are run for makeCacheMatrix() and cacheSolve()
 ##
-##  2. makeCacheMatrix(matrix.A) in called, with the matrix to be inverted as input.
+##  2. makeCacheMatrix(matrix.A) is called, with the matrix to be inverted as input.
 ##
 ##      funcvect1 <- makeCacheMatrix(matrix.A)
 ##
